@@ -48,6 +48,10 @@ An article has four fields
 - comment [Optional]
 - id [Added automatically by default, no need to specify]
 
+To get all created articles
+
+- Get Request to the '/articles' endpoint
+
 To create a new Article
 
 - Post Request to the '/articles' endpoint in JSON format with the fields[title, content, creator, comment(Optional)]
