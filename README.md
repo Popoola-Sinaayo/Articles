@@ -2,31 +2,29 @@
 
 A simple CRUD API with Django and DjangoRestFramework
 
+## Deployed Url in Heroku
+
+('https://articles-web-api.herokuapp.com/articles')
+
 ## To run Locally
 
 - Download Python ('https://www.python.org/downloads/')
 
 - Install and Add Python to environment path
 
-- Run 'pip install venv'
+- Run 'python -m venv env'
 
-- Run 'python-3 venv env'
+- For Windows run 'env\Scripts\activate'
 
-- For Windows run '\env\Scripts\activate'
-
-- For Mac run '\env\Scripts\activate'
+- For Mac run 'env\Scripts\activate'
 
 - Run 'pip install -r requirements.txt'
 
-- Run 'python manage.py makemigrations'
+- Run 'python manage.py makemigrations Management'
 
 - Run 'python manage.py migrate'
 
 - Run 'python manage.py runserver'
-
-## Deployed Url in Heroku
-
-('https://articles-web-api.herokuapp.com/articles')
 
 ## Documentation
 
