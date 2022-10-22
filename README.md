@@ -23,3 +23,6 @@ A simple CRUD API with Django and DjangoRestFramework
 - Run 'python manage.py migrate'
 
 - Run 'python manage.py runserver'
+
+('https://articles-web-api.herokuapp.com/articles)
+
