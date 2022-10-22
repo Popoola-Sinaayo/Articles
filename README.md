@@ -48,7 +48,7 @@ An article has four fields
 - comment [Optional]
 - id [Added automatically by default, no need to specify]
 
-To get all created articles
+**To get all created articles**
 
 - Get Request to the '/articles' endpoint
 
