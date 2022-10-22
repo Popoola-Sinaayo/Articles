@@ -42,9 +42,9 @@ The following HttpRequest are Valid to the '/articles' endpoint
 
 An article has four fields
 
-- title [mandatory to add]
-- content [mandatory to add]
-- creator [mandatory to add]
+- title [Mandatory]
+- content [Mandatory]
+- creator [Mandatory]
 - comment [Optional]
 - id [Added automatically by default, no need to specify]
 
