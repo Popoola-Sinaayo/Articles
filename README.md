@@ -50,16 +50,16 @@ An article has four fields
 
 **To get all created articles**
 
-- Get Request to the '/articles' endpoint
+- GET HttpRequest to the '/articles' endpoint
 
 **To create a new Article**
 
-- Post Request to the '/articles' endpoint in JSON format with the fields[title, content, creator, comment(Optional)]
+- POST HttpRequest to the '/articles' endpoint in JSON format with the fields[title, content, creator, comment(Optional)]
 
 **To Update an Article**
 
-- PUT request to the '/articles' enpoint in JSON format update can be done by pasing either the id or title as part of the request body accompanied with the fields to be changes
+- PUT HttpRequest to the '/articles' enpoint in JSON format update can be done by pasing either the id or title as part of the request body accompanied with the fields to be changes
 
 **To Delete an Article**
 
-- DELETE request to the '/articles' endpoint in JSON format, pass only the Article id or title, not both
+- DELETE HttpRequest to the '/articles' endpoint in JSON format, pass only the Article id or title, not both
