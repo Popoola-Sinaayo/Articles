@@ -8,6 +8,8 @@ A simple CRUD API with Django and DjangoRestFramework
 
 ## To run Locally
 
+- Clone the Project Repository ('https://github.com/Popoola-Sinaayo/Articles.git')
+
 - Download Python ('https://www.python.org/downloads/')
 
 - Install and Add Python to environment path
